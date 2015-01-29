@@ -1,0 +1,2 @@
+/Users/HyoMinLee/Desktop/IndependentStudy/HW2/Code/iCell-build/CMakeFiles/icell_apply.dir
+/Users/HyoMinLee/Desktop/IndependentStudy/HW2/Code/iCell-build/CMakeFiles/icell_train.dir
